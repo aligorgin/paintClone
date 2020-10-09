@@ -123,7 +123,6 @@ function storeDrawn(x, y, size, color, erase) {
         color,
         erase,
     };
-    console.log(line);
     drawnArray.push(line);
 }
 
